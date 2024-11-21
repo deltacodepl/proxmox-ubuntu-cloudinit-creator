@@ -4,7 +4,7 @@ UBUNTU_REPO="https://cloud-images.ubuntu.com/noble/current/"
 UBUNTU_IMG="noble-server-cloudimg-amd64.img"
 
 VMID=9000
-TEMPLATE_NAME="ubuntu-2404-cloudinit-template"
+TEMPLATE_NAME="ubuntu-2404-cloudinit"
 MEMORY=1024
 CORES=1
 

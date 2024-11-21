@@ -4,7 +4,7 @@ UBUNTU_REPO="https://cloud-images.ubuntu.com/jammy/current/"
 UBUNTU_IMG="jammy-server-cloudimg-amd64.img"
 
 VMID=8000
-TEMPLATE_NAME="ubuntu-2204-cloudinit-template"
+TEMPLATE_NAME="ubuntu-2204-cloudinit"
 MEMORY=4096
 CORES=4
 
